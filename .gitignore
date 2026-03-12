@@ -1,0 +1,4 @@
+#ignor
+.env
+env
+.env/
