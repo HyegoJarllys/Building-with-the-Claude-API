@@ -19,3 +19,12 @@ Main Stack: Python · Claude API · RAG · Tool Use · MCP · Embeddings · Prom
 - control model output using the stop sequence, this very utility for nlp and filter the content structured data as such JSON in Liz ouvidoria - ( pessoal project)
 
 ## Module Two
+- Prompt engineering optimization.
+- tipical evaluation pipeline whit : create dataset, create judge agent whith prompt optimized for the evaluation or function whit api call ( grading model).
+- run the pipeline, evaluation the asrwer and repeat whith optimization in the main prompt
+
+## Module Two
+- Implement recent improvements for prompt engineering such : 
+- beeing clear and direct - ( use adjective in imperative mode )
+-  XLM tags, for more clarity and concision in the prompt
+- Few-shot exemples(provide examples), for instruct llm to response the output whith caracteristics previsibility.
